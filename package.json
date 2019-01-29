@@ -1,7 +1,7 @@
 {
   "name": "gatsby-source-swapcard",
   "description": "Swapcard source plugin for connecting Gatsby to Swapcard API",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Orestis Ioannou <oorestisime@gmail.com>",
   "bugs": {
     "url": "https://github.com/oorestisime/gastby-source-swapcard/issues"

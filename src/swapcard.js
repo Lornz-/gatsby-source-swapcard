@@ -56,7 +56,6 @@ export const queryAll = async (
   pageSize = 100,
   aggregatedResponse
 ) => {
-  console.log(path, page, pageSize)
   const data = await queryOnce(client, query, eventId, page, pageSize)
 
   const nodes = get([...path], data)

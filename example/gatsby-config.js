@@ -7,7 +7,8 @@ module.exports = {
   plugins: [
     `gatsby-plugin-styled-components`,
     {
-      resolve: require.resolve(`..`),
+      resolve: `gatsby-source-swapcard`,
+      // resolve: require.resolve(`..`),
       options: {
         accessToken: process.env.ACCESS_TOKEN,
         eventId: `RXZlbnRfNTIwODk=`,
