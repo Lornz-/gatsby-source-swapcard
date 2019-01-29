@@ -1,4 +1,4 @@
-# gatsby-source-swapcard
+# gatsby-source-swapcard [![npm version](https://badge.fury.io/js/gatsby-source-swapcard.svg)](https://badge.fury.io/js/gatsby-source-swapcard)
 
 A plugin for sourcing data from [Swapcard](https://www.swapcard.com/) API into your Gatsby project.
 
