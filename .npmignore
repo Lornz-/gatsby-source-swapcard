@@ -32,3 +32,4 @@ flow-typed
 coverage
 decls
 example
+netlify.toml
